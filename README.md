@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Izze!
 - 👀 I’m interested in networking, graphics programming, and video games.
-- 🌱 I’m currently learning Computer Science and Game Design at the University of California, Santa Cruz
+- 🌱 I recently graduated from the University of California, Santa Cruz.
 
 <!---
 i-cortez/i-cortez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
